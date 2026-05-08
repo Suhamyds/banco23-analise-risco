@@ -4,7 +4,11 @@ Projeto desenvolvido durante o **Hackathon de encerramento do curso Ada | Elas+ 
 identificar o risco de inadimplência de clientes, auxiliando na tomada de decisão de concessão de crédito.
 
 ## 👥 Squad 23
-* **Integrantes do Grupo 23**
+Amanda Castro (scastroamanda@hotmail.com)
+Anelise Barros (annebarros00@gmail.com)
+Jeanne Caputo (jeanne.caputo@gmail.com)
+Renata Aires (renataaires8332@gmail.com)
+Suhamyds Andrade (Suhamydslays@gmail.com)
 
 ## 🛠️ Tecnologias e Ferramentas
 * **Linguagem:** Python
