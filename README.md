@@ -5,9 +5,13 @@ identificar o risco de inadimplência de clientes, auxiliando na tomada de decis
 
 ## 👥 Squad 23
 Amanda Castro (scastroamanda@hotmail.com)
+
 Anelise Barros (annebarros00@gmail.com)
+
 Jeanne Caputo (jeanne.caputo@gmail.com)
+
 Renata Aires (renataaires8332@gmail.com)
+
 Suhamyds Andrade (Suhamydslays@gmail.com)
 
 ## 🛠️ Tecnologias e Ferramentas
